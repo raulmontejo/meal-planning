@@ -4,6 +4,14 @@ Running log of what we actually cooked, what's in rotation, and what worked or d
 
 ---
 
+## 2026-09-15 (plan) — Switching protein off chicken/pork
+
+- **Breakfast:** `recipes/coconut-milk-pumpkin-seed-bowl.md` (needs to chill, prep the night before).
+- **Lunch:** `recipes/chicken-romaine-salad.md` — no pre-cooked chicken on hand from today, so chicken needs cooking first (e.g. alongside breakfast prep or the night before).
+- **Dinner:** `recipes/shrimp-zoodle-scampi.md`. No spiralizer confirmed yet — fallback zoodling techniques if needed: julienne peeler, box grater (large holes, angled), Y-peeler into ribbons then knife-julienne, or straight knife (plank, stack, julienne). Salt and rest zoodles 5-10 min on paper towels first to pull water out, whichever method used.
+
+---
+
 ## 2026-09-14 — Home only for breakfast
 
 - **Breakfast (actual):** Erica started a scramble with mushroom, tomato, and spinach; added leftover chicken and the mustard-vinegar-olive-oil dressing (see 2026-09-13) on top, plus leftover bacon from yesterday's breakfast — instead of the planned `recipes/chicken-sweet-potato-hash.md`. Bacon is an exception to the no-red-meat/no-processed-snacks default (using up leftovers), not a framework change.
