@@ -10,6 +10,8 @@ A reference library for whole-food, low-carb, batch-friendly cooking — built t
   - `bloat-triggers.md` — foods that commonly cause bloating and how this plan avoids them
   - `batch-prep-notes.md` — what holds up as a make-ahead batch vs. what to cook fresh, and realistic timing
   - `aldi-shopping-list.md` — a categorized checklist template, split into an ALDI run and a second-stop list
+  - `checking-store-availability.md` — routine for confirming items are in stock at ALDI (Mayfield Heights) or backup store Heinen's (University Heights) before a trip, plus a note on local ethnic grocery stores for variety
+  - `eating-out.md` — how to order at a restaurant and stay close to the framework
 - `journal.md` — running log of what we actually cooked, what worked, what didn't. Add to it as you go.
 
 ## How to use this

@@ -10,7 +10,7 @@ Context for working in this repo — a personal meal-planning reference library,
 - Occasional exceptions are fine (e.g. sweet potato) when that's what's on hand from leftovers — flag it as an exception rather than rewriting the framework around it.
 
 ## Shopping
-Primary store is ALDI; `reference/aldi-shopping-list.md` has the categorized template. Some items (whole turkey breast, tahini, coconut aminos) are unreliable there — check `whole-food-swaps.md` for what to substitute or pick up elsewhere.
+Primary store is ALDI (Mayfield Heights); backup is Heinen's (University Heights) for anything ALDI doesn't carry. `reference/aldi-shopping-list.md` has the categorized template; `reference/checking-store-availability.md` has the routine for confirming stock at either store before a trip. Some items (whole turkey breast, tahini, coconut aminos) are unreliable at ALDI — check `whole-food-swaps.md` for what to substitute or pick up elsewhere. Local ethnic grocery stores are a further option when branching out for variety, not part of the routine weekly shop.
 
 ## Recipes
 One file per dish in `recipes/`, format: `**Serves:** · **Time:** · **Type:**`, then Ingredients / Steps / Notes. When adding a new recipe (e.g. from a leftovers improvisation), follow this format and note what it's built to use up.
