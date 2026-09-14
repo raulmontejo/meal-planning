@@ -17,6 +17,10 @@ Naturally low-lactose dairy (ghee, aged hard cheeses like parmesan) is often fin
 ## Red meat
 Beef, steak, bacon, and pork are swapped for chicken (breast & thighs), ground turkey, salmon, shrimp, white fish (cod/tilapia), and eggs throughout.
 
+## Pantry staples
+
+**Mustard-vinegar shake** — when a mustard bottle is almost empty, add a splash of red wine vinegar (and a little olive oil if you want it emulsified), shake, and use as an instant vinaigrette. No-waste, no-prep, and covers most of the salads and dressings in this repo (see `cobb-style-chicken-egg-salad.md`, `chicken-sweet-potato-hash.md`). Worth keeping mustard and vinegar both stocked so there's always one bottle heading toward this treatment.
+
 ## Aminos
 Liquid aminos (Bragg's or similar) works as a 1:1-ish swap for coconut aminos — it's saltier and soy-based, so start with less and adjust. Coconut aminos is soy-free and milder if soy is a concern.
 
