@@ -15,7 +15,7 @@ Running log of what we actually cooked, what's in rotation, and what worked or d
 ## 2026-09-14 — Home only for breakfast
 
 - **Breakfast (actual):** Erica started a scramble with mushroom, tomato, and spinach; added leftover chicken and the mustard-vinegar-olive-oil dressing (see 2026-09-13) on top, plus leftover bacon from yesterday's breakfast — instead of the planned `recipes/chicken-sweet-potato-hash.md`. Bacon is an exception to the no-red-meat/no-processed-snacks default (using up leftovers), not a framework change.
-- **Lunch:** provided at an event, menu unknown — packed a backup in case it's light: hard-boiled eggs, almonds, a couple of mandarins.
+- **Lunch (actual):** Event provided a veggie salad (romaine, chickpea, tomato, onion, carrot strips) plus grilled chicken. Onion is an exception to the default bloat-trigger avoidance (not our choice, event catering) — flag if it causes issues. Packed backup (hard-boiled eggs, almonds, mandarins) wasn't needed; also had trail mix and a banana on hand as a further backup, unused so far.
 - **Dinner:** eating out — see `reference/eating-out.md` for how to order.
 
 ---
