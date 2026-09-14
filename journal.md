@@ -4,9 +4,9 @@ Running log of what we actually cooked, what's in rotation, and what worked or d
 
 ---
 
-## 2026-09-14 (plan) — Home only for breakfast
+## 2026-09-14 — Home only for breakfast
 
-- **Breakfast:** `recipes/chicken-sweet-potato-hash.md`, using last night's leftovers.
+- **Breakfast (actual):** Erica started a scramble with mushroom, tomato, and spinach; added leftover chicken and the mustard-vinegar-olive-oil dressing (see 2026-09-13) on top, plus leftover bacon from yesterday's breakfast — instead of the planned `recipes/chicken-sweet-potato-hash.md`. Bacon is an exception to the no-red-meat/no-processed-snacks default (using up leftovers), not a framework change.
 - **Lunch:** provided at an event, menu unknown — packed a backup in case it's light: hard-boiled eggs, almonds, a couple of mandarins.
 - **Dinner:** eating out — see `reference/eating-out.md` for how to order.
 
@@ -14,7 +14,7 @@ Running log of what we actually cooked, what's in rotation, and what worked or d
 
 ## 2026-09-13 — Grilled chicken & sweet potato
 
-Dinner: grilled chicken, grilled sweet potato. Shook up a quick mustard-vinegar dressing from an almost-empty mustard bottle plus vinegar — worked well, more mustard on hand to repeat.
+Dinner: grilled chicken, grilled sweet potato. Shook up a quick mustard-vinegar dressing from an almost-empty mustard bottle plus vinegar — worked well, more mustard on hand to repeat. Update 2026-09-14: added a splash of robust olive oil to the mix, used again on a breakfast scramble.
 
 Leftovers turned into breakfast the next morning — see `recipes/chicken-sweet-potato-hash.md`.
 
