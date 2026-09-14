@@ -20,3 +20,11 @@ One file per dish in `recipes/`, format: `**Serves:** · **Time:** · **Type:**`
 
 ## Batch prep
 Budget roughly double the time a batch session looks like on paper, even split across two people — see `reference/batch-prep-notes.md` before suggesting a big multi-component prep day.
+
+## To-dos
+Track open follow-ups as GitHub issues on this repo, not just in chat or the journal — anything that isn't done yet but should get picked back up.
+
+- **File one** when a task needs real-world testing, a decision, or more than a few minutes of work later — `gh issue create --title "..." --body "..."`.
+- **Labels:** `to-verify` (something documented here — a routine, a claim — that hasn't actually been confirmed in practice), `idea` (worth trying later, not yet concrete), plus the default `enhancement`/`documentation` where they fit better.
+- **Closing:** when the follow-up is resolved, close with a comment summarizing the outcome and pointing to what changed — `gh issue close <n> --comment "..."` — rather than closing silently. If it changed a file, reference the commit or file.
+- Small things that can just be fixed immediately (a typo, a one-line correction) don't need an issue — file one when the work is genuinely deferred.
